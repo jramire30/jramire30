@@ -37,8 +37,6 @@ Strengthening my Python fundamentals and SQL querying.
 
 🎯 Goals
 
-Successfully complete BrainStation by March 2026 and leverage my new skills to land a Data Scientist role within the next 1–2 years.
-
-Contribute to projects that merge business insights with advanced analytics.
-
-Keep growing as a problem-solver and share my learning journey along the way.
+ - Successfully complete BrainStation by March 2026 and leverage my new skills to land a Data Scientist role within the next 1–2 years.
+ - Contribute to projects that merge business insights with advanced analytics.
+ - Keep growing as a problem-solver and share my learning journey along the way.

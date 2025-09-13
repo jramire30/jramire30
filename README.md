@@ -1,5 +1,5 @@
 #About Me
-## Hi there 👋🏼
+## Hi, I’m Julio 👨‍💻
 
 <!--
 **jramire30/jramire30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I’m Julio 👨‍💻
-
 I currently work as a Programmatic Analyst at Ziff Davis’ Everyday Health Group in NYC, where I use data to drive insights and optimize digital strategy. My academic background is in Economics and Finance (B.A., 2018), which gave me a strong foundation in quantitative reasoning and problem solving.
 
 I’m currently enrolled in the BrainStation Data Science Bootcamp (Sept 2025 – Mar 2026), where I’m actively building and refining my skills in:

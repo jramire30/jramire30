@@ -1,3 +1,4 @@
+#About Me
 ## Hi there 👋🏼
 
 <!--
@@ -19,14 +20,10 @@ Hi, I’m Julio 👨‍💻
 I currently work as a Programmatic Analyst at Ziff Davis’ Everyday Health Group in NYC, where I use data to drive insights and optimize digital strategy. My academic background is in Economics and Finance (B.A., 2018), which gave me a strong foundation in quantitative reasoning and problem solving.
 
 I’m currently enrolled in the BrainStation Data Science Bootcamp (Sept 2025 – Mar 2026), where I’m actively building and refining my skills in:
-
-Python (data analysis, visualization, and machine learning)
-
-SQL (querying, joins, data cleaning, business intelligence)
-
-Statistics & Probability for data-driven decision making
-
-Machine Learning (model building, evaluation, and deployment)
+ - Python (data analysis, visualization, and machine learning)
+ - SQL (querying, joins, data cleaning, business intelligence)
+ - Statistics & Probability for data-driven decision making
+ - Machine Learning (model building, evaluation, and deployment)
 
 My long-term aspiration is to transition into a Data Scientist role where I can combine my analytical background, business knowledge, and technical toolkit to solve complex problems and build impactful data solutions.
 
@@ -34,11 +31,9 @@ My long-term aspiration is to transition into a Data Scientist role where I can 
 
 Strengthening my Python fundamentals and SQL querying.
 
-Building a portfolio of data projects to showcase my skills.
-
-Learning best practices in data visualization and communication.
-
-Exploring machine learning applications in real-world datasets.
+ - Building a portfolio of data projects to showcase my skills.
+ - Learning best practices in data visualization and communication.
+ - Exploring machine learning applications in real-world datasets.
 
 🎯 Goals
 

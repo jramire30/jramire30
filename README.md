@@ -40,4 +40,8 @@ My long-term aspiration is to transition into a Data Scientist role where I can 
 
 📧 Further points of contact
 
+📊 Airlines Deep Analysis Interactive Dashboards Creations 
 
+- Airlines Scaling - https://public.tableau.com/app/profile/julio.ramirez.bernal/viz/Air_Traffic_Deliverable_2_Julio_Ramirez_Bernal/ScaleAirlines?publish=yes
+- Trends & Hubs - https://public.tableau.com/app/profile/julio.ramirez.bernal/viz/Air_Traffic_Deliverable_2_Julio_Ramirez_Bernal/TrendsHubs?publish=yes
+- Reliability & Disruptions - https://public.tableau.com/app/profile/julio.ramirez.bernal/viz/Air_Traffic_Deliverable_2_Julio_Ramirez_Bernal/ReliabilityDisruptions?publish=yes

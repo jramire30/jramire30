@@ -46,6 +46,3 @@ My long-term aspiration is to transition into a Data Scientist role where I can 
 - Trends & Hubs - https://public.tableau.com/app/profile/julio.ramirez.bernal/viz/Air_Traffic_Deliverable_2_Julio_Ramirez_Bernal/TrendsHubs?publish=yes
 - Reliability & Disruptions - https://public.tableau.com/app/profile/julio.ramirez.bernal/viz/Air_Traffic_Deliverable_2_Julio_Ramirez_Bernal/ReliabilityDisruptions?publish=yes
 
-git add dashboard/MyAirTrafficDashboard.twbx
-git commit -m "Add Tableau dashboard"
-git push

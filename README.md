@@ -31,5 +31,5 @@ Analytics storytelling project combining SQL query design and Tableau visual com
 - NLP
 
 ## Contact
-- LinkedIn: [your LinkedIn link]
-- Email: [your email]
+- LinkedIn: https://www.linkedin.com/in/julio-c-r/
+- Email: juliox2265@gmail.com

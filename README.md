@@ -1,6 +1,6 @@
 # Hi, I'm Julio 👋
 
-I’m a data scientist with experience in analytics, predictive modeling, NLP, SQL, and cloud-based big data workflows. My portfolio includes projects in customer churn, fraud detection, hotel review sentiment analysis, air traffic analytics, and distributed processing with AWS EMR and Spark.
+I’m a data enthusiast with experience in analytics, predictive modeling, NLP, SQL, and cloud-based big data workflows. My portfolio includes projects in customer churn, fraud detection, hotel review sentiment analysis, air traffic analytics, and distributed processing with AWS EMR and Spark.
 
 ## Featured Projects
 
